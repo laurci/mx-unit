@@ -1,0 +1,11 @@
+projects:
+  mx-chain-go:
+    url: https://github.com/laurci/mx-chain-go.git
+
+  mx-chain-proxy-go:
+    url: https://github.com/laurci/mx-chain-proxy-go.git
+
+tasks:
+  hello:
+    desc: Print Hello World
+    cmd: echo "Hello World"
