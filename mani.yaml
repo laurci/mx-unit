@@ -8,6 +8,9 @@ projects:
   mx-indexer:
     url: git@github.com:laurci/mx-indexer.git
 
+  mx-seed-contracts:
+    url: git@github.com:laurci/mx-seed-contracts.git
+
 tasks:
   hello:
     desc: Print Hello World
