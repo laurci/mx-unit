@@ -3,6 +3,8 @@ mx-chain-proxy-go
 mx-chain-go
 mx-indexer
 mx-seed-contracts
+mx-api-service
+mx-delegation-service
 # mani #
 
 localnet/

@@ -11,6 +11,12 @@ projects:
   mx-seed-contracts:
     url: git@github.com:laurci/mx-seed-contracts.git
 
+  mx-api-service:
+    url: git@github.com:laurci/mx-api-service.git
+
+  mx-delegation-service:
+    url: git@github.com:laurci/mx-delegation-service.git
+
 tasks:
   hello:
     desc: Print Hello World
