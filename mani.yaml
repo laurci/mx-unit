@@ -1,9 +1,9 @@
 projects:
   mx-chain-go:
-    url: https://github.com/laurci/mx-chain-go.git
+    url: git@github.com:laurci/mx-chain-proxy-go.git
 
   mx-chain-proxy-go:
-    url: https://github.com/laurci/mx-chain-proxy-go.git
+    url: git@github.com:laurci/mx-chain-proxy-go.git
 
 tasks:
   hello:
