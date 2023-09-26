@@ -17,6 +17,9 @@ projects:
   mx-delegation-service:
     url: git@github.com:laurci/mx-delegation-service.git
 
+  mx-unit-networking:
+    url: git@github.com:laurci/mx-unit-networking.git
+
 tasks:
   hello:
     desc: Print Hello World
