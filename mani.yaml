@@ -5,6 +5,9 @@ projects:
   mx-chain-proxy-go:
     url: git@github.com:laurci/mx-chain-proxy-go.git
 
+  mx-indexer:
+    url: git@github.com:laurci/mx-indexer.git
+
 tasks:
   hello:
     desc: Print Hello World
