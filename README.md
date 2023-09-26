@@ -6,14 +6,14 @@ The MultiversX chain is split in multiple repositories. Instead of creating a mo
 
 # Projects
 
-- [mx-chain-go](github.com/laurci/mx-chain-go.git): fork of the chain node
-- [mx-chain-proxy-go](github.com/laurci/mx-chain-proxy-go.git): fork of the gateway/proxy
-- [mx-indexer](github.com/laurci/mx-indexer.git): opensearch setup, acts like the indexer
-- [mx-seed-contracts](github.com/laurci/mx-seed-contracts.git): collection of contracts that need to be deployed on the network to make the wallet work
-- [mx-api-service](github.com/laurci/mx-api-service.git): fork of the api service
-- [mx-delegation-service](github.com/laurci/mx-delegation-service.git): fork of the delegation service
-- [mx-socket-api-mock](github.com/laurci/mx-socket-api-mock.git): couldn't locate the source of the official socket service, so this is a mock
-- [mx-unit-networking](github.com/laurci/mx-unit-networking.git): networking hacks used to make devnet-wallet, devnet-explorer and xPortal think our network is the real netowrk
+- [mx-chain-go](https://github.com/laurci/mx-chain-go.git): fork of the chain node
+- [mx-chain-proxy-go](https://github.com/laurci/mx-chain-proxy-go.git): fork of the gateway/proxy
+- [mx-indexer](https://github.com/laurci/mx-indexer.git): opensearch setup, acts like the indexer
+- [mx-seed-contracts](https://github.com/laurci/mx-seed-contracts.git): collection of contracts that need to be deployed on the network to make the wallet work
+- [mx-api-service](https://github.com/laurci/mx-api-service.git): fork of the api service
+- [mx-delegation-service](https://github.com/laurci/mx-delegation-service.git): fork of the delegation service
+- [mx-socket-api-mock](https://github.com/laurci/mx-socket-api-mock.git): couldn't locate the source of the official socket service, so this is a mock
+- [mx-unit-networking](https://github.com/laurci/mx-unit-networking.git): networking hacks used to make devnet-wallet, devnet-explorer and xPortal think our network is the real netowrk
 
 # Setup
 
