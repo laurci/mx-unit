@@ -17,3 +17,7 @@ To get this working locally, follow these steps:
 4. Change the `ChainID` in the validators configs (`config.toml` and `nodesSetup.json`) from `localnet` to `D`.
 5. To start your local network run `mxpy localnet start`.
 6. For all other packages check the individual setup guide.
+
+# Port forwarding
+
+If you use `ssh` to forward ports from this project, I'll save you the pain. Just append the following: `-L 3001:localhost:3001 -L 5601:localhost:5601 -L 9200:localhost:9200 -L 3005:localhost:3005 -L 3006:localhost:300`.
