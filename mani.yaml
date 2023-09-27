@@ -22,8 +22,3 @@ projects:
 
   mx-unit-networking:
     url: git@github.com:laurci/mx-unit-networking.git
-
-tasks:
-  hello:
-    desc: Print Hello World
-    cmd: echo "Hello World"
