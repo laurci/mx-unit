@@ -6,6 +6,7 @@ The MultiversX chain is split in multiple repositories. Instead of creating a mo
 
 # Projects
 
+- [mx-plug](https://github.com/laurci/mx-plug.git): wasm vm plugins authoring framework
 - [mx-chain-go](https://github.com/laurci/mx-chain-go.git): fork of the chain node
 - [mx-chain-proxy-go](https://github.com/laurci/mx-chain-proxy-go.git): fork of the gateway/proxy
 - [mx-chain-vm-go](https://github.com/laurci/mx-chain-vm-v1_4-go.git): fork of WASM vm modified to load and execute plugin
