@@ -8,6 +8,8 @@ The MultiversX chain is split in multiple repositories. Instead of creating a mo
 
 - [mx-chain-go](https://github.com/laurci/mx-chain-go.git): fork of the chain node
 - [mx-chain-proxy-go](https://github.com/laurci/mx-chain-proxy-go.git): fork of the gateway/proxy
+- [mx-chain-vm-go](https://github.com/laurci/mx-chain-vm-v1_4-go.git): fork of WASM vm modified to load and execute plugin
+- [mx-sdk-rs](git@github.com:laurci/mx-sdk-rs.git): fork of the rust sc framework
 - [mx-indexer](https://github.com/laurci/mx-indexer.git): opensearch setup, acts like the indexer
 - [mx-seed-contracts](https://github.com/laurci/mx-seed-contracts.git): collection of contracts that need to be deployed on the network to make the wallet work
 - [mx-api-service](https://github.com/laurci/mx-api-service.git): fork of the api service

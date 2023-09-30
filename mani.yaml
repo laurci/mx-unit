@@ -1,9 +1,18 @@
 projects:
+  mx-plug:
+    url: git@github.com:laurci/mx-plug.git
+
   mx-chain-go:
     url: git@github.com:laurci/mx-chain-go.git
 
   mx-chain-proxy-go:
     url: git@github.com:laurci/mx-chain-proxy-go.git
+
+  mx-chain-vm-v1_4-go:
+    utl: git@github.com:laurci/mx-chain-vm-v1_4-go.git
+
+  mx-sdk-rs:
+    utl: git@github.com:laurci/mx-sdk-rs.git
 
   mx-indexer:
     url: git@github.com:laurci/mx-indexer.git
