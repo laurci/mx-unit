@@ -2,6 +2,8 @@
 
 This project contains the modified version of the [MultiversX](https://multiversx.com) chain components used to integrate with [unit](https://github.com/laurci/unit).
 
+Learn more about this repository [here](https://laurci.notion.site/XDay-Hackathon-Log-087f6778a60245f58a4e0d9e2bea3b95?pvs=4).
+
 We mainly needed a way to add extra WASM VM runtime support to allow us to programatically push/pull data from the Unit Crossbar. We have decided that the best way to do that (at least for this showcase) is to add plugin support to the VM.
 
 The MultiversX chain is split in multiple repositories. Instead of creating a mono-repo with all the repos from MultiversX, we decided to keep the same convention.
